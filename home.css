@@ -1,0 +1,9 @@
+.body{
+  background : #111111;
+  padding : 10;
+  margin :0;
+  display : flex;
+  transform : translate(-150%,-50%);
+  align-items:center;
+  justify-content : center;
+}
