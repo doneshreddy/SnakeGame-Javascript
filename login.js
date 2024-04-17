@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 export default class Login extends Component {
     render() {
-        return (
+        return ( DocumentFragment
             <form>
 
                 <h3>Log in</h3>
